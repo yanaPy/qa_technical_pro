@@ -24,5 +24,5 @@ prompt.get(schema, function(err, result) {
     string = 'років'
   }
 
-  console.log('Ваш вік :', age + ' ' + string);
+  console.log('Ваш вік : ', age + ' ' + string);
 });
