@@ -36,8 +36,6 @@ function findNode(name, currentNode) {
     }
 }
 
-
-
 const company = {
     name: 'Велика Компанія',
     type:'Головна компанія',
