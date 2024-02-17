@@ -1,1 +1,0 @@
-# qa_technical_pro
